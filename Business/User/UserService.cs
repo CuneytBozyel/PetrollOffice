@@ -22,6 +22,7 @@ namespace Business.User
             catch (Exception ex)
             {
                 // Logger.FileLog.Error(ex.Message, ex);
+                //Test commit df sd f
             }
             return result;
         }

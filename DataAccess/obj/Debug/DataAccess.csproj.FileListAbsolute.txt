@@ -8,3 +8,12 @@ c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPane
 c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.xml
 c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\DataAccess\obj\Debug\DataAccess.pdb

@@ -15,3 +15,20 @@ c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPane
 c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Business.dll.config
 c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\Business.dll.config
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\Business.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\Business.pdb
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\Autofac.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\Core.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\DataAccess.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\Core.pdb
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\DataAccess.pdb
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\DataAccess.dll.config
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\Autofac.xml
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.xml
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\obj\Debug\Business.dll
+C:\Users\cbozyel\Desktop\PetrolOfficeManagmentPanel\Business\obj\Debug\Business.pdb

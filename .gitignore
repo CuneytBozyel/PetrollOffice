@@ -40,6 +40,7 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+!*.dll
 # DNX
 project.lock.json
 project.fragment.lock.json
