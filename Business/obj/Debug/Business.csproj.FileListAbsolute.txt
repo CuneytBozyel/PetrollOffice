@@ -1,0 +1,17 @@
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Business.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Business.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\obj\Debug\Business.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\obj\Debug\Business.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Autofac.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Core.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\DataAccess.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Core.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\DataAccess.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\DataAccess.dll.config
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Autofac.xml
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.xml
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\Business.dll.config
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\Business\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataCache\bin\Debug\DataCache.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataCache\bin\Debug\DataCache.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataCache\obj\Debug\DataCache.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataCache\obj\Debug\DataCache.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataCache\obj\Debug\DataCache.csprojResolveAssemblyReference.cache

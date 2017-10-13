@@ -1,0 +1,10 @@
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\DataAccess.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\obj\Debug\DataAccess.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\obj\Debug\DataAccess.pdb
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\DataAccess.dll.config
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cbozyel\documents\visual studio 2017\Projects\PetrolOfficeManagmentPanel\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
